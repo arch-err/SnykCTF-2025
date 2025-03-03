@@ -13,17 +13,17 @@
 **Team:** None
 
 
-**Flags:** (0/23)
+**Flags:** (2/23)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 
 # Challenges
-- [ ] [not-hot-dog](challenges/not-hot-dog)
+- [x] [not-hot-dog](challenges/not-hot-dog)
 - [ ] [Invisible_Ink](challenges/Invisible_Ink)
 - [ ] [magician](challenges/magician)
-- [ ] [Robert_Louis_Stevenson](challenges/Robert_Louis_Stevenson)
+- [x] [Robert_Louis_Stevenson](challenges/Robert_Louis_Stevenson)
 - [ ] [Browser_preview](challenges/Browser_preview)
 - [ ] [CALC-UL8R](challenges/CALC-UL8R)
 - [ ] [qrrr](challenges/qrrr)

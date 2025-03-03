@@ -1,0 +1,49 @@
+{
+  "architecture": "amd64",
+  "config": {
+    "Env": [
+      "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ],
+    "Cmd": [
+      "/bin/sh"
+    ],
+    "OnBuild": null
+  },
+  "created": "2021-06-22T14:41:06.8225885Z",
+  "history": [
+    {
+      "created": "2021-06-15T22:19:37.639998211Z",
+      "created_by": "/bin/sh -c #(nop) ADD file:f278386b0cef68136129f5f58c52445590a417b624d62bca158d4dc926c340df in / "
+    },
+    {
+      "created": "2021-06-15T22:19:37.842991933Z",
+      "created_by": "/bin/sh -c #(nop)  CMD [\"/bin/sh\"]",
+      "empty_layer": true
+    },
+    {
+      "created": "2021-06-22T14:41:06.3075534Z",
+      "created_by": "RUN /bin/sh -c mkdir -p /ak/pp/tv/bc/22/ # buildkit",
+      "comment": "buildkit.dockerfile.v0"
+    },
+    {
+      "created": "2021-06-22T14:41:06.5660073Z",
+      "created_by": "RUN /bin/sh -c echo \"nothing to see here\" # buildkit",
+      "comment": "buildkit.dockerfile.v0"
+    },
+    {
+      "created": "2021-06-22T14:41:06.8225885Z",
+      "created_by": "RUN /bin/sh -c echo \"nothing to see here\" # buildkit",
+      "comment": "buildkit.dockerfile.v0"
+    }
+  ],
+  "os": "linux",
+  "rootfs": {
+    "type": "layers",
+    "diff_ids": [
+      "sha256:72e830a4dff5f0d5225cdc0a320e85ab1ce06ea5673acfe8d83a7645cbd0e9cf",
+      "sha256:af74befe7bfb916ee834ba25f2b7994404c2c5fe3ebd4eb46c85b00c32d73f02",
+      "sha256:f1040f436b32fefd6462aa58f1690560278359e6f638a68e3a023140512c90de",
+      "sha256:a7295916f1a8e68dc90f416629c150e67e834c9bda0ca1cf60c9c7e0f77699ce"
+    ]
+  }
+}
