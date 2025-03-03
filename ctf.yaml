@@ -1,9 +1,32 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: SnykCTF-2025
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://www.ctf-snyk.io/
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/SnykCTF-2025.git
+challenges:
+  - name: not-hot-dog
+  - name: Invisible_Ink
+  - name: magician
+  - name: Robert_Louis_Stevenson
+  - name: Browser_preview
+  - name: CALC-UL8R
+  - name: qrrr
+  - name: Random_flag_generator
+  - name: Electronbuzz
+  - name: Instant_flag_checker
+  - name: Sauerkraut
+  - name: TackStack
+  - name: Zip_viewer
+  - name: red-light-green-light
+  - name: Russian_doll
+  - name: seo-original-gangstas
+  - name: Top_lang
+  - name: Disco_Dancer
+  - name: JavaScript_sandbox
+  - name: Malicious_NPM
+  - name: Secret_notebook
+  - name: swagcatalog
+  - name: UniBypass
