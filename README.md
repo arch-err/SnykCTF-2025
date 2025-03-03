@@ -4,7 +4,7 @@
 - https://www.ctf-snyk.io/
 
 ## Description
-**
+*Put your security skills to the test in Fetch the Flag, a virtual Capture the Flag competition hosted by Snyk and John Hammond, on February 27, 2025, from 9 am - 9 pm ET.*
 
 
 # Results
