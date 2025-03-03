@@ -13,7 +13,7 @@
 **Team:** None
 
 
-**Flags:** (2/23)
+**Flags:** (3/23)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -26,7 +26,7 @@
 - [x] [Robert_Louis_Stevenson](challenges/Robert_Louis_Stevenson)
 - [ ] [Browser_preview](challenges/Browser_preview)
 - [ ] [CALC-UL8R](challenges/CALC-UL8R)
-- [ ] [qrrr](challenges/qrrr)
+- [x] [qrrr](challenges/qrrr)
 - [ ] [Random_flag_generator](challenges/Random_flag_generator)
 - [ ] [Electronbuzz](challenges/Electronbuzz)
 - [ ] [Instant_flag_checker](challenges/Instant_flag_checker)
